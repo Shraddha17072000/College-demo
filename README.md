@@ -1,4 +1,4 @@
 # college-demo
 This is my first repository.
 <br>
-Author  - Shraddha Bodkhe
+Author  - Shraddha (My College)
